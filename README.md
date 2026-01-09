@@ -4,4 +4,4 @@
 > https://pieter-cawood.github.io
 
 ## Credit
-Template forked from https://github.com/varadbhogayata
+Template cloned from https://github.com/varadbhogayata
